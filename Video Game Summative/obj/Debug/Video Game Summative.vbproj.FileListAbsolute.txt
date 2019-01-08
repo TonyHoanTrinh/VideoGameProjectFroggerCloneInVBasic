@@ -1,0 +1,47 @@
+E:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.exe.config
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmAbout.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmExit.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmInstructions.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel1.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmMain.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmSplash.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.Resources.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.vbproj.GenerateResource.Cache
+E:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.exe
+E:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.pdb
+E:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.xml
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.exe
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.xml
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.pdb
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmGameOver.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmWinScreen.resources
+D:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.exe.config
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.exe
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.xml
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.pdb
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmAbout.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmExit.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmGameOver.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmInstructions.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel1.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel2.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel3.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmMain.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmSplash.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmWinScreen.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.Resources.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.vbproj.GenerateResource.Cache
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel1toLevel2.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel2.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel2toLevel3.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel3.resources
+D:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.exe
+D:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.pdb
+D:\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.xml
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel1toLevel2.resources
+D:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmLevel2toLevel3.resources
+E:\Video Game Summative\Video Game Summative\obj\Debug\Video_Game_Summative.frmName.resources
+C:\Users\Anthony\Desktop\Video Game Summative\Video Game Summative\bin\Debug\Video Game Summative.exe.config
+C:\Users\Anthony\Desktop\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.exe
+C:\Users\Anthony\Desktop\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.xml
+C:\Users\Anthony\Desktop\Video Game Summative\Video Game Summative\obj\Debug\Video Game Summative.pdb
